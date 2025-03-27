@@ -6,7 +6,7 @@ This repository provides a ready-to-use automation testing framework built with 
 ### 🎯 Application Under Test
 Live URL: [https://track-expenses-v1.netlify.app/](https://track-expenses-v1.netlify.app/)
 
-### 📂 The project can be found on GitHub:
+### 📂 The pplication Under Test can be found on GitHub:
 Github Repository: [https://github.com/digiborg91/ExpenseTracker](https://github.com/digiborg91/ExpenseTracker)
 
 ## ✅ Prerequisites
@@ -24,8 +24,8 @@ Follow these steps to quickly set up and run your tests locally:
 ## **1. Clone the WebDriverIO Repository**
 Clone the repository to your local machine:
 ```sh
-git clone https://github.com/digiborg91/ExpenseTracker.git
-cd ExpenseTracker
+git clone https://github.com/digiborg91/WebdriverIO-Template.git
+cd WebdriverIO-Template
 ```
 
 ## **2. Install Dependencies**
