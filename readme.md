@@ -6,7 +6,7 @@ This repository provides a ready-to-use automation testing framework built with 
 ### 🎯 Application Under Test
 Live URL: [https://track-expenses-v1.netlify.app/](https://track-expenses-v1.netlify.app/)
 
-### 📂 The pplication Under Test can be found on GitHub:
+### 📂 The Application Under Test can be found on GitHub:
 Github Repository: [https://github.com/digiborg91/ExpenseTracker](https://github.com/digiborg91/ExpenseTracker)
 
 ## ✅ Prerequisites
